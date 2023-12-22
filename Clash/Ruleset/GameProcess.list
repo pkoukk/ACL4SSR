@@ -1,0 +1,6 @@
+# 游戏进程名列表，包含Windows和Android
+
+# Nikke
+PROCESS-NAME,nikke.exe
+PROCESS-NAME,nikke_launcher.exe
+PROCESS-NAME,com.proximabeta.nikke
