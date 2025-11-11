@@ -143,11 +143,11 @@ dns:
     - tls://1.12.12.12
 
 # 用于配置链式代理的落地节点
-{% if request.self_managed_url != "" %}
+{% if request.landing_url != "" %}
 proxy-providers:
   ChainEndpoint:
     type: http
-    url: {{ request.self_managed_url}}
+    url: {{ request.landing_url}}
     interval: 86400
     override:
       dialer-proxy: 🇺🇲 美国节点
