@@ -1,0 +1,11 @@
+# 游戏进程名列表，包含Windows和Android
+
+# Nikke
+PROCESS-NAME,nikke.exe
+PROCESS-NAME,nikke_launcher.exe
+PROCESS-NAME,com.proximabeta.nikke
+PROCESS-NAME,MapleStory.exe
+PROCESS-NAME,NexonLauncher.exe
+PROCESS-NAME,BlackCipher.aes
+DOMAIN-SUFFIX,nexon.com
+DOMAIN-SUFFIX,nexon.net
